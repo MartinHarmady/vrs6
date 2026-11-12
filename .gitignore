@@ -1,0 +1,21 @@
+# Build output
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.map
+*.list
+
+# Eclipse / CubeIDE metadata
+.metadata/
+.settings/
+*.launch
+.mxproject
+
+# System files
+*.swp
+
+# CubeIDE workspace metadata
+.metadata/
